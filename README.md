@@ -3,6 +3,9 @@
 
 A full-stack weather analytics application with user authentication, real-time weather data, interactive charts, and unit conversion (Celsius/Fahrenheit). Built with React, Redux Toolkit, Node.js/Express, and MongoDB Atlas.
 
+## Demo Video 🎥
+[Watch the demo](https://github.com/ADVAYA1/Weather-App/blob/main/weather.mkv)
+
 ## Features
 
 ### Core Functionality
